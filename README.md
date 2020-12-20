@@ -1,3 +1,3 @@
 # Sentiment-Detector-GUI-using-Tkinter-Python
 Sentiment Detector GUI using Tkinter – Python
-sentiment analysis or sentiment classification fall into the broad category of text classification tasks where you are supplied with a phrase, or a list of phrases and your classifier is supposed to tell if the sentiment behind that is positive, negative or neutral.
+Essentially, it is the process of determining whether a piece of writing is positive or negative. This is also called the Polarity of the content.
